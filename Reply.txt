@@ -1,0 +1,21 @@
+Nombre: Wiiliam Andres Rodriguez Perdomo
+codigo: 240220221001
+
+1. ¿Cuál de las siguientes afirmaciones es verdadera sobre ResultSet en Java?
+b) Un ResultSet representa un conjunto de resultados de una consulta SQL.
+
+2. ¿Cuál de las siguientes opciones describe mejor el propósito de 'git pull' en
+Git?
+a) Descargar los cambios desde el repositorio remoto y fusionarlos en la
+rama local.
+
+3. ¿Cuál de las siguientes opciones describe mejor el flujo de trabajo básico en
+Git?
+c) Add, Commit, Push
+
+4. ¿Qué comando de Git se utiliza para crear una nueva rama?
+a) git branch
+
+5. ¿Qué interfaz Java se utiliza para ejecutar consultas parametrizadas en una
+base de datos?
+d) Connection
